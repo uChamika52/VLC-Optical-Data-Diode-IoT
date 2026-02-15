@@ -28,7 +28,7 @@ This project is a secure, one-way communication system that transmits sensor dat
 **Transmitter:**
 - STM32F411 "Black Pill"
 - DHT11 Sensor
-- High-Brightness LED
+- 650nm Laser Dot
 - IRLZ44N MOSFET
 - SSD1306 OLED Display
 
