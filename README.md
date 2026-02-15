@@ -27,9 +27,9 @@ This project is a secure, one-way communication system that transmits sensor dat
 
 **Transmitter:**
 - STM32F411 "Black Pill"
-- DHT11/22 Sensor
+- DHT11 Sensor
 - High-Brightness LED
-- 2N2222 NPN Transistor
+- IRLZ44N MOSFET
 
 **Receiver:**
 - ESP32 DevKit V1
