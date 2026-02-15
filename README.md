@@ -47,7 +47,7 @@ A detailed schematic for the transmitter & receiver circuits can be found in the
 The firmware is located in the `/firmware` folder.
 
 1.  **Transmitter:** The project was built using **STM32CubeIDE**. Open the project located in `/firmware/stm32_transmitter/` and flash to the STM32 board.
-    - Install the following header.
+    - Install the following headers.
         - `ssd1306.h`
         - `ssd1306_conf.h`
         - `ssd1306_fonts.h`
