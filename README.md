@@ -26,7 +26,7 @@ This project is a secure, one-way communication system that transmits sensor dat
 ## Hardware Components
 
 **Transmitter:**
-- STM32F4 "Black Pill"
+- STM32F411 "Black Pill"
 - DHT11/22 Sensor
 - High-Brightness LED
 - 2N2222 NPN Transistor
@@ -59,8 +59,8 @@ The firmware is located in the `/firmware` folder.
 ## Authors
 
 - **[Ushan Karunarathna](www.linkedin.com/in/ushan-karunarathna)** - ESP32 & Cloud Lead
-- **Sasindu Perera** - Hardware Lead & System Integration - [[Link to their LinkedIn](https://www.linkedin.com/in/sasinduperera)]
-- **Madhuka Dias** - STM32 Firmware Lead - [[Link to their LinkedIn](https://www.linkedin.com/in/madhuka-dias-5a5794293)]
+- **Sasindu Perera** - Hardware Lead & System Integration - [[Sasindu Perera](https://www.linkedin.com/in/sasinduperera)]
+- **Madhuka Dias** - STM32 Firmware Lead - [[Madhuka Dias](https://www.linkedin.com/in/madhuka-dias-5a5794293)]
 
 ---
 
