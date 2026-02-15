@@ -58,7 +58,7 @@ The firmware is located in the `/firmware` folder.
 
 ## Authors
 
-- **Ushan Karunarathna[www.linkedin.com/in/ushan-karunarathna]** - ESP32 & Cloud Lead - [www.linkedin.com/in/ushan-karunarathna]
+- **[Ushan Karunarathna(www.linkedin.com/in/ushan-karunarathna)]** - ESP32 & Cloud Lead
 - **Sasindu Perera** - Hardware Lead & System Integration - [[Link to their LinkedIn](https://www.linkedin.com/in/sasinduperera)]
 - **Madhuka Dias** - STM32 Firmware Lead - [[Link to their LinkedIn](https://www.linkedin.com/in/madhuka-dias-5a5794293)]
 
