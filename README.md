@@ -47,7 +47,13 @@ A detailed schematic for the transmitter & receiver circuits can be found in the
 The firmware is located in the `/firmware` folder.
 
 1.  **Transmitter:** The project was built using **STM32CubeIDE**. Open the project located in `/firmware/stm32_transmitter/` and flash to the STM32 board.
-2.  **Receiver:** The code was written for the **Arduino IDE**.
+    - Install the following header.
+        - `ssd1306.h`
+        - `ssd1306_conf.h`
+        - `ssd1306_fonts.h`
+        - `ssd1306_tests.h`
+          
+3.  **Receiver:** The code was written for the **Arduino IDE**.
     - Install the ESP32 board manager.
     - Install the following libraries from the Library Manager:
         - `Adafruit_SSD1306`
