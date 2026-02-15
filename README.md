@@ -30,12 +30,13 @@ This project is a secure, one-way communication system that transmits sensor dat
 - DHT11 Sensor
 - High-Brightness LED
 - IRLZ44N MOSFET
+- SSD1306 OLED Display
 
 **Receiver:**
 - ESP32 DevKit V1
 - BPW34 Photodiode
 - LM358 Op-Amp
-- Adafruit SSD1306 OLED Display
+- SSD1306 OLED Display
 
 A detailed schematic for the transmitter & receiver circuits can be found in the `/hardware` folder.
 
@@ -59,9 +60,8 @@ The firmware is located in the `/firmware` folder.
 ## Authors
 
 - **[Ushan Karunarathna](www.linkedin.com/in/ushan-karunarathna)** - ESP32 & Cloud Lead
-- **Sasindu Perera** - Hardware Lead & System Integration - [[Sasindu Perera](https://www.linkedin.com/in/sasinduperera)]
-- **Madhuka Dias** - STM32 Firmware Lead - [[Madhuka Dias](https://www.linkedin.com/in/madhuka-dias-5a5794293)]
-
+- **[Sasindu Perera](https://www.linkedin.com/in/sasinduperera)** - Hardware Lead & System Integration
+- **[Madhuka Dias](https://www.linkedin.com/in/madhuka-dias-5a5794293)** - STM32 Firmware Lead 
 ---
 
 ## License
